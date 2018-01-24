@@ -14,8 +14,8 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             fileCreation();
-            connect();
-            output();
+            //connect();
+            //output();
             Console.ReadKey();
             
         }
@@ -49,11 +49,11 @@ namespace ConsoleApp4
 
             using (StreamWriter outputFile = new StreamWriter(mydocpath + @"\Test.txt"))
             {  
-                outputFile.WriteLine(Environment.OSVersion);
-                outputFile.WriteLine(Environment.UserDomainName);
-                outputFile.WriteLine(Environment.UserName);
-                outputFile.WriteLine(Environment.SpecialFolderOption.Create);
-                outputFile.WriteLine(Environment.ProcessorCount);
+                outputFile.WriteLine("OS: " + Environment.OSVersion);
+                outputFile.WriteLine("UserDomainName: " + Environment.UserDomainName);
+                outputFile.WriteLine("UserName: " +Environment.UserName);
+                // outputFile.WriteLine(Environment.SpecialFolderOption.Create);
+                outputFile.WriteLine("ProcessorCount: " + Environment.ProcessorCount);
             }
 
         }
