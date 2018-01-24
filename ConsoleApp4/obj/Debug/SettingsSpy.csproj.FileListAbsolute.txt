@@ -1,0 +1,6 @@
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\SettingsSpy.csproj.CoreCompileInputs.cache
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Pavel.Kabanov\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
